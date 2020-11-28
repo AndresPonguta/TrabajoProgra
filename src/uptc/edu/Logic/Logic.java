@@ -53,4 +53,5 @@ public class Logic {
 	// return insertionPhrase;
 	//
 	// }
+	System.out.println("Hello world");
 }
