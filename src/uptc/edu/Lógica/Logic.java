@@ -39,18 +39,4 @@ public class Logic {
 		return result;
 	}
 
-	// public String insertion(String phrase){
-	// String insertionPhrase= "";
-	// for (int i = 0; i < phrase.length(); i++) {
-	// for (int j = i; i<phrase.length() && j < phrase.length(); j++) {
-	// if (insertionPhrase.charAt(i) != insertionPhrase.charAt(j+1)) {
-	// i=j+1;
-	// }else{
-	// insertionPhrase.charAt(j+1);
-	// }
-	// }
-	// }
-	// return insertionPhrase;
-	//
-	// }
-}
+// public String insertion(String phrase){ i = 0; i  for (int j = i; i<phrase.length() && j / if (insertionPhrase.charAt(i) != insertionPhra/
